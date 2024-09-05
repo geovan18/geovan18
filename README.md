@@ -4,4 +4,6 @@ Meu nome é Geovana Vitor de Sales
 
 - Estou estudando Alura
 - Estou me desenvolvendo na linguagem JavaScript
-- Utilizo esse espaço para minha organizaçaõ e com
+- Utilizo esse espaço para minha organizaçaõ e compartilhamento dos meu projetos desenvolvidos
+
+### Voc
